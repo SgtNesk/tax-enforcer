@@ -1,0 +1,14 @@
+# Escludi l'ambiente virtuale
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Escludi il database locale
+*.db
+
+# Escludi la cache di pip
+.cache/
+
+# Escludi file temporanei
+*.log
